@@ -1,2 +1,7 @@
 # Visulization
-Using Visualization to explore and explain data 
+This archive contains four files that will help you get organized with your project.
+
+readme.md - This Markdown file contains sections that you should fill out as you select your dataset, complete your exploration, and plan your explanatory analysis. You can open up markdown files using any plain text editor: the format is meant to allow for good readability both as plain text and rendered as HTML. If you need a primer for Markdown syntax, you can find the documentation on the original Markdown specifications here.
+exploration_template.ipynb - This Jupyter Notebook contains section templates to help you organize your exploration, starting from loading in the data, working through univariate visualizations, and ending with bivariate and multivariate exploration. At the end of each section, there are questions to help you summarize your findings.
+slide_deck_template.ipynb - This Jupyter Notebook contains starter cells to help you organize your slide deck deliverable. These cells provide an example of how the slide deck should be organized, including pre-set slideshow settings.
+output_toggle.tpl - This template file can be used with nbconvert to export your slide deck. This adds extra functionality to the slide deck by hiding the code to start, only making it visible if the reader clicks on the output (which should mostly be visualizations in the case of this project). This template file was taken from this page, written by one of the contributors to the nbconvert project.
